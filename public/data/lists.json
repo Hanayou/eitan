@@ -1,0 +1,104 @@
+{
+ "version": 1,
+ "built": "2026-10-24",
+ "lists": [
+  {
+   "id": "e1-verbs-1",
+   "group": "eiken",
+   "title": "Verbs 1",
+   "sub": "動詞",
+   "count": 222
+  },
+  {
+   "id": "e1-verbs-2",
+   "group": "eiken",
+   "title": "Verbs 2",
+   "sub": "動詞",
+   "count": 222
+  },
+  {
+   "id": "e1-verbs-3",
+   "group": "eiken",
+   "title": "Verbs 3",
+   "sub": "動詞",
+   "count": 222
+  },
+  {
+   "id": "e1-verbs-4",
+   "group": "eiken",
+   "title": "Verbs 4",
+   "sub": "動詞",
+   "count": 219
+  },
+  {
+   "id": "e1-adj-1",
+   "group": "eiken",
+   "title": "Adjectives 1",
+   "sub": "形容詞",
+   "count": 247
+  },
+  {
+   "id": "e1-adj-2",
+   "group": "eiken",
+   "title": "Adjectives 2",
+   "sub": "形容詞",
+   "count": 247
+  },
+  {
+   "id": "e1-adj-3",
+   "group": "eiken",
+   "title": "Adjectives 3",
+   "sub": "形容詞",
+   "count": 247
+  },
+  {
+   "id": "e1-nouns-1",
+   "group": "eiken",
+   "title": "Nouns 1",
+   "sub": "名詞",
+   "count": 179
+  },
+  {
+   "id": "e1-nouns-2",
+   "group": "eiken",
+   "title": "Nouns 2",
+   "sub": "名詞",
+   "count": 179
+  },
+  {
+   "id": "e1-nouns-3",
+   "group": "eiken",
+   "title": "Nouns 3",
+   "sub": "名詞",
+   "count": 179
+  },
+  {
+   "id": "e1-adv",
+   "group": "eiken",
+   "title": "Adverbs",
+   "sub": "副詞",
+   "count": 115
+  },
+  {
+   "id": "e1-phrasal",
+   "group": "eiken",
+   "title": "Phrasal verbs",
+   "sub": "句動詞",
+   "count": 247
+  },
+  {
+   "id": "anime-phrases",
+   "group": "anime",
+   "title": "Everyday phrases & slang",
+   "sub": "日常会話・スラング",
+   "count": 194
+  },
+  {
+   "id": "anime-story",
+   "group": "anime",
+   "title": "Story & battle words",
+   "sub": "ファンタジー・バトル",
+   "count": 116
+  }
+ ]
+}

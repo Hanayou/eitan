@@ -1,0 +1,27 @@
+{
+  "name": "eitan",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "英単 Eitan — an offline 英検1級 & anime English vocab drill PWA",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "data:build": "node scripts/build-data.mjs",
+    "icons": "node scripts/make-icons.mjs"
+  },
+  "dependencies": {
+    "dexie": "^4.0.11",
+    "preact": "^10.26.5"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.10.1",
+    "sharp": "^0.34.1",
+    "typescript": "~5.8.3",
+    "vite": "^6.3.5",
+    "vite-plugin-pwa": "^1.0.0",
+    "vitest": "^3.1.3"
+  }
+}
